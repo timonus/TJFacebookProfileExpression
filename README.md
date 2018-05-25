@@ -1,5 +1,7 @@
 # TJFacebookProfileExpression
 
+**NOTE: It appears that the profile expression SDK is no longer supported, so this project won't function properly.**
+
 This project is an open source alternative to Facebook's [Profile Expression Kit](https://developers.facebook.com/products/profile-expression-kit), which doesn't seem to be available on their developer portal anymore. It allows you to launch the Facebook app and prompt the user to set their profile photo or video to content from your app.
 
 ## Installation
